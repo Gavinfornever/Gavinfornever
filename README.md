@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gavinfornever
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java basic grammars and classic algorithms
-- 💞️ I’m looking to collaborate on building easy-to-do projects
+- 👋 Hi, I’m @Gavinfornever.
+- 👀 Interested in LLM inference and Full Stack building.
+- 🌱 Currently using vLLM, Infinity to build a model deployment and inference platform.
+- 💞️ Looking to collaborate on building easy-to-do projects
 - 📫 How to reach me 857403106@qq.com or (0086)15317932968
 
 <!---
